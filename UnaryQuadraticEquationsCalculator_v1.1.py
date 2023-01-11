@@ -26,13 +26,10 @@ while n==1 :
 			x1=((-float(b))+math.sqrt(d))/(float(a)*2)
 			x2=((-float(b))-math.sqrt(d))/(float(a)*2)
 		
-		    #Output solves.
+		    	#Output solves.
 			print("x1=",x1)
 			print("x2=",x2)
-		    
-		    #Line feed.
-			print("\n")
-	
+
 	#Error tips.
 	except ValueError :
 		print("You seems to have input a wrong number,Please check you number if it's wrong and reinput a correct number and try again.")
