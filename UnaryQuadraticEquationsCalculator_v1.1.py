@@ -20,6 +20,9 @@ while n==1 :
 	
 		if (d<0) :
 		    print("The equation is unbale to solve.")
+		
+		elif :
+		    print("Only the quadratic equation of one variable can be solved.")
 	
 		#Calculate solves.
 		else :
