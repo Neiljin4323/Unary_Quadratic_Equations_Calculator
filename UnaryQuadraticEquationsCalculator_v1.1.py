@@ -2,12 +2,12 @@ import math
 
 
 print("\nUnary Quadratic Equations Calculator v1.1\n")
-print("If you want to exit,Please press Ctrl+C.\n")
+print("If you want to exit,Please press Ctrl+C.")
 
 n=1
 while n==1 :
 	#Give tip.
-	print("ax²+bx+c=0")
+	print("\nax²+bx+c=0")
 	
 	#Input "a b c" values.
 	a=input("a=")
